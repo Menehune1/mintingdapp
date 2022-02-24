@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x578350C68A428dd1beCA808b2cC2FF65025a1017",
-  "SCAN_LINK": "https://polygonscan.com/token/0x578350C68A428dd1beCA808b2cC2FF65025a1017",
+  "CONTRACT_ADDRESS": "0x3e50a5F0aD51254551FD1F764a3E1CEB18F2eCC8",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3e50a5F0aD51254551FD1F764a3E1CEB18F2eCC8",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.3656716417910447,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/Menehunes",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/menehunes",
   "SHOW_BACKGROUND": true
 }

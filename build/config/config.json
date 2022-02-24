@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x578350C68A428dd1beCA808b2cC2FF65025a1017",
+  "SCAN_LINK": "https://polygonscan.com/token/0x578350C68A428dd1beCA808b2cC2FF65025a1017",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Menehunes",
+  "SYMBOL": "MENE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 365671641791044700,
+  "DISPLAY_COST": 0.3656716417910447,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Menehunes",
+  "SHOW_BACKGROUND": true
+}
